@@ -152,6 +152,21 @@ section h3 {
     font-size: 28px;
 }
 
+main {
+    position: relative;
+    padding: 40px 20px;
+    background: linear-gradient(to bottom, #ffffff, #e8f0ff);
+}
+
+main img {
+    width: 100%;
+    max-width: 650px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 15px;
+    opacity: 0.95;
+}
+
 
 .lista-servicos {
     list-style: none;

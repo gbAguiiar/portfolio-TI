@@ -167,6 +167,15 @@ main img {
     opacity: 0.95;
 }
 
+.menu-navegacao li a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu-navegacao li a:hover {
+    color: #4aa3ff;
+}
+
 
 .lista-servicos {
     list-style: none;
